@@ -1,2 +1,2 @@
-# Safetrail_Alzheimer
+# SafeTrail
  
