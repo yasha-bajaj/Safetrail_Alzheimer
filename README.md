@@ -23,6 +23,11 @@ SafeTrail is an AI-powered robotic companion designed to **follow a person** wit
 - **AI & CV**: OpenCV, YOLOv8
 - **Hardware**: Arduino Uno (future integration)
 
+### Working SolidWorks Simulation
+https://github.com/user-attachments/assets/ad25014f-5b3b-4d51-801b-9df738a0df34
+
+
+
 ### Installation & Setup 🏗️
 1. Clone the repository:
    ```bash
