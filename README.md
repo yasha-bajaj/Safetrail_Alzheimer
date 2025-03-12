@@ -18,10 +18,10 @@ SafeTrail is an AI-powered robotic companion designed to **follow a person** wit
 - **Web Portal**: Displays the live tracking status and emergency controls.
 
 ### App working Screenshots
-<img src="https://github.com/user-attachments/assets/9eb376c0-e502-4fd8-b366-b762d9dc9117" width="300">
-<img src="https://github.com/user-attachments/assets/a1148152-cf13-41af-adcd-31ce3405dce0" width="300">
-<img src="https://github.com/user-attachments/assets/a8c56476-fdda-47ea-8a59-bf01c80e5741" width="300">
-<img src="https://github.com/user-attachments/assets/60e735e4-dd57-462d-b402-5d282014b413" width="300">
+<img src="https://github.com/user-attachments/assets/9eb376c0-e502-4fd8-b366-b762d9dc9117" width="200">
+<img src="https://github.com/user-attachments/assets/a1148152-cf13-41af-adcd-31ce3405dce0" width="200">
+<img src="https://github.com/user-attachments/assets/a8c56476-fdda-47ea-8a59-bf01c80e5741" width="200">
+<img src="https://github.com/user-attachments/assets/60e735e4-dd57-462d-b402-5d282014b413" width="200">
 
 
 ### How It Works ⚙️
